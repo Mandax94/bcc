@@ -287,4 +287,4 @@ what you want to work on.
 
 ## External links
 
-Looking for more information on BCC and how it's being used? You can find links to other BCC content on the web in [LINKS.md](LINKS.md).
+Looking for more information on BCC and how it's being used? You can find links to other BCC content on the web in [LINKS.md](LINKS.md)..
